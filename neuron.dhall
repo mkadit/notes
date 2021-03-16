@@ -6,5 +6,5 @@
 , theme = "teal"
 -- This is used in the "edit" button
 , editUrl = Some "https://github.com/mkadit/notes/edit/master/"
-, plugins = [ "neuronignore", "links", "tags", "uptree", "dirtree" ]
+-- , plugins = [ "neuronignore", "links", "tags", "uptree", "dirtree" ]
 }

@@ -1,3 +1,3 @@
 # Notes
 ## Lessons
-[[[z:zettels?tag=lesson]]]
+[[z:zettels?tag=lesson]]
