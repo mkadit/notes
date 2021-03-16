@@ -1,4 +1,3 @@
 # Notes
-
-## [[75e737f0]]#
-## [[8df2226b]]#
+## Lessons
+[[[z:zettels?tag=lesson]]]
