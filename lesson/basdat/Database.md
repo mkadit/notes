@@ -38,4 +38,4 @@ There are 3 things to do in order to a database:
 - Create a new section for the 'Database' course for this semester
 - Enter a grade of 'A' for 'Gintoki' in the 'Database' section of last semester
 
-for example [[ac941c81]]#
+Implementing such system would be [[DBMS]]#

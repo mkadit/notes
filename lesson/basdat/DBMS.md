@@ -9,7 +9,7 @@ tags:
 
 ## Database Management System (DBMS)
 
-DBMS is a collection of programs designed to define, manipulate, retrieve, and manage data in a database. With it a user can create, and maintain a database as the users wishes
+DBMS is a collection of programs designed to define, manipulate, retrieve, and manage data in a #[[Database]]. With it a user can create, and maintain a database as the users wishes
 
 ### How it Works
 
