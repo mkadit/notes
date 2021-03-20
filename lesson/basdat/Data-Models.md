@@ -37,10 +37,10 @@ Provide concepts that fall between the above two, balancing user views with some
 - Hierarchical Model
   ![Hierarchical Model example](static/pic-selected-210320-1743-38.png)
 
-- [[Relational Model]]
+- [[Relational-Model]]
   ![Relational Model example](static/pic-selected-210320-1744-49.png)
 
 - Object Oriented Model
   ![OO Model example](static/pic-selected-210320-1746-10.png)
 
-  Another choice of data models would be Entity Relationship Data Model or [[ER-Model]]
+  Another choice of data models would be Entity Relationship Data Model or [[ER-Model]]#

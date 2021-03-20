@@ -27,4 +27,3 @@ A database model based on the concept of **Relation**
 - A Relation May Alternately be Thought of as a Set of Columns
 - Each Row of the Relation May Be Given an Identifier
 - Each Column Typically is Called by its Column Name or
-
