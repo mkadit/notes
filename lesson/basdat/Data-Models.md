@@ -3,8 +3,8 @@ date: 2021-03-20T17:34
 title: Data Models
 slug: Data Models
 tags:
-	- database
-	- terminology
+  - database
+  - terminology
 ---
 
 ## Definition
@@ -42,4 +42,3 @@ Provide concepts that fall between the above two, balancing user views with some
 
 - Object Oriented Model
   ![OO Model example](static/pic-selected-210320-1746-10.png)
-

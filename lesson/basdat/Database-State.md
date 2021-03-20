@@ -3,11 +3,12 @@ date: 2021-03-20T17:52
 title: Database State
 slug: Database State
 tags:
-	- database
-	- terminology
+  - database
+  - terminology
 ---
 
 ## Definition
+
 Refers to the **content** of a database at a moment in time.
 
 ### States
