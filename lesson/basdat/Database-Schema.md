@@ -26,3 +26,6 @@ Unlike [[Database-State]]# database schema also known as **intention**, **change
 ![Schema Diagram](static/pic-selected-210320-1807-42.png)
 
 An example of a schema would be [[Three-Schema-Architecture]]#
+
+### [[Data-Independence]]
+When a schema at a lower level is changed, only the **mappings** between this schema and higher-level schemas need to be changed in a [[DBMS]] that fully supports data independence. The higher-level schemas themselves are *unchanged*
