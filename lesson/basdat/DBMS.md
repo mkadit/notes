@@ -3,13 +3,15 @@ date: 2021-03-19T20:32
 title: DBMS
 slug: DBMS
 tags:
-  - basdat
   - database
+  - terminology
 ---
 
 ## Database Management System (DBMS)
 
-DBMS is a collection of programs designed to define, manipulate, retrieve, and manage data in a #[[Database]]. With it a user can create, and maintain a database as the users wishes
+DBMS is a collection of programs designed to define, manipulate, retrieve, and manage data in a #[[Database]]. With it a user can create, and maintain a database as the users wishes.
+
+A DBMS would often time used a schema that can be used as a framework to descibe it's structure, one of such framework would be [[Three-Schema-Architecture]]#. 
 
 ### How it Works
 
