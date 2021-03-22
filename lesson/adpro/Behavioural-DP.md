@@ -5,3 +5,4 @@ slug: Behavioural Design Pattern
 tags:
   - design patterns
 ---
+[[[z:zettels?tag=behavioural-design-pattern]]]
