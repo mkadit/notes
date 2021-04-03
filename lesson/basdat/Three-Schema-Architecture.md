@@ -33,6 +33,6 @@ Describes parts of the information in the conceptual schema in a convinient to a
 Describes how the information described in the conceptual schema is **physicially represented** in a database to provide the overall best perfomance
 ![Internal schema](static/pic-selected-210320-2101-25.png)
 
-
 ## Unified Example of Three Schema
+
 ![Unified example](static/pic-selected-210320-2223-00.png)

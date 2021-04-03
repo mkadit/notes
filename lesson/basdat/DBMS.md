@@ -192,9 +192,13 @@ Provide appropriate interfaces and a client-version of the system to access and 
 
 ![Two Tier architecture](static/pic-selected-210320-2345-59.png)
 
+Interface called **ODBC** (Open Database Connectivity) provide an API that allow client side programs to call the DBMS
+
 #### Three Tier Client-Server Architecture
 
-A common thing for **Web applications**. The only difference is that there's an **intermidiate layer** called **applications server** or **web server**
+A common thing for **Web applications**. The only difference is that there's an **intermediate layer** called **applications server** or **web server**. They do:
+- Stores the web connectivity software and the rules and business logic part of the applications
+- They acts like a conduit for sending partially processed data
 
 ##### Purpose
 
